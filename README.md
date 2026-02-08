@@ -1,4 +1,4 @@
-# All Villager Professions & Traders in McLOVIN Modpack
+# All Villager Professions & Traders in ModPack
 
 ## Vanilla Villager Professions (Minecraft)
 
